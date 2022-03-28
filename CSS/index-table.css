@@ -1,0 +1,21 @@
+
+.table-div {
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+table {
+    width: 800px;
+    border-collapse: collapse;
+}
+
+th,td {
+    padding: 15px;
+    background-color: #A94FFF;
+    color: #fff;
+    text-align: left;
+}
+thead th {
+    background-color: #000000;
+}
