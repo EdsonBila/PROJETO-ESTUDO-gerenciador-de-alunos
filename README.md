@@ -3,7 +3,7 @@
 	🚧  Ainda postando conteudos 🚧
 </h4>
 <h2>DESCRIÇÃO</h2>
-<p>Projeto de uma CRUD simples de alunos, o projeto foi desenvolvido com o intuito de relembrar os conceitos de POO (Programação Orientada  Objetos).</p>
+<p>Projeto de uma CRUD simples de alunos, o projeto foi desenvolvido com o intuito de exercitar os conhecimentos em HTML, CSS, PHP e SQL.</p>
 
 <h3>LINGUAGENS UTILIZADAS</h3>
 <p>Foram usadas na construção do projeto:</p>
